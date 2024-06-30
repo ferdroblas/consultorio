@@ -64,7 +64,7 @@ body {
 }
 
 .social-container {
-    margin-top: 20px;
+    margin-top: 10px;
     text-align: center;
 }
 
@@ -82,6 +82,12 @@ body {
     font-size: 25px; /* Tamaño del icono */
     margin-right: 10px; /* Espacio entre el icono y el texto */
     color: #3a3c8a; /* Nuevo color proporcionado */
+}
+.calendly-inline-widget {
+    width: 90%;
+    max-width: 400px;
+    height: 400px;
+    margin: 0 auto;
 }
 @media (min-width: 768px) {
     .container {
